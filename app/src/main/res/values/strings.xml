@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ReproSampleAndroidApp</string>
+    <string name="app_name">ec-sample</string>
+    <string name="CHANNEL_NAME">channel_name</string>
+    <string name="CHANNEL_DESCRIPTION">description</string>
 </resources>
